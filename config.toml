@@ -1,0 +1,39 @@
+baseURL = "https://syyim.me"
+title = "syyim"
+theme = "anubis"
+paginate = 5
+
+disqusShortname = ""
+googleAnalytics = ""
+
+[author]
+  name = "lovejaco@gmail.com"
+
+[params]
+   author = "sungyeol.yim"
+   description = "syyim blog"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Archive"
+    identifier = "archive"
+    url = "/posts/"
+    weight = 3
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"

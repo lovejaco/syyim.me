@@ -2,7 +2,7 @@ baseURL = "https://syyim.netlify.app"
 title = "syyim"
 theme = "anubis"
 paginate = 5
-
+summaryLength = 30
 disqusShortname = ""
 googleAnalytics = "UA-167094170-1"
 

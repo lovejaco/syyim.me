@@ -4,7 +4,7 @@ theme = "anubis"
 paginate = 5
 
 disqusShortname = ""
-googleAnalytics = ""
+googleAnalytics = "UA-167094170-1"
 
 [author]
   name = "lovejaco@gmail.com"

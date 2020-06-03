@@ -33,3 +33,8 @@ googleAnalytics = "UA-167094170-1"
     url = "/posts/"
     weight = 3
 
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 4

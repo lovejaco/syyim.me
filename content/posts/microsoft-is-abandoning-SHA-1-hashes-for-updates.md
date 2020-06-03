@@ -1,5 +1,5 @@
 +++
-title = "[번역] 더 좋은 코드 리뷰 방법: Part One"
+title = "[번역] 마이크로소프트가 SHA-1 업데이트를 포기한 이유?"
 date = "2019-01-20"
 description = "[번역] Microsoft is Abandoning SHA-1 Hashes for Updates---But Why?"
 tags = [

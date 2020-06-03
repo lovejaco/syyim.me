@@ -148,7 +148,7 @@ MAC에 사용되는 Key에 따라 GMAC, HMAC, NMAC, CMAC, UMAC, VMAC 등으로 �
 
 마이크로소프트 역시 [루트 인증서 프로그램의 SHA-1 해시 알고리즘 사용 중단 -2016/1/12](https://support.microsoft.com/ko-kr/help/3123479/microsoft-security-advisory-deprecation-of-sha-1-hashing-algorithm-for) 및  
 [SHA-2 코드 서명 지원 요구 사항](https://support.microsoft.com/ko-kr/help/4472027/2019-sha-2-code-signing-support-requirement-for-windows-and-wsus)을 통해 윈도우즈 업데이트에서 SHA-1사용을 제거하였습니다.
-이와 관련하여 저의 게시물 [번역 - 마이크로소프트가 SHA-1 업데이트를 포기한 이유?](/blog/microsoft-is-abandoning-SHA-1-hashes-for-updates)를 읽어 보는 것도 흥미로울 수 있습니다.
+이와 관련하여 저의 게시물 [번역 - 마이크로소프트가 SHA-1 업데이트를 포기한 이유?](/posts/microsoft-is-abandoning-sha-1-hashes-for-updates/)를 읽어 보는 것도 흥미로울 수 있습니다.
 
 ### SHA2 취약점
 

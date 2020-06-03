@@ -148,7 +148,7 @@ OpenStack(Swift, Swift-Keystone), Nginx, Node.js, MongoDB, Redis
 
 OpenStack 인프라를 이용하여 드롭박스와 같은 서비스를 구축하는 프로젝트로, OpenStack 인프라를 널리 소개하려는 목적을 가진 프로젝트에서 백엔드 개발 담당
 
-![https://firejune.com/attach/1126/121126200035496502/943976.png](/images/project/121126200035496502/943976.png)
+![https://firejune.com/attach/1126/121126200035496502/943976.png](/images/project/943976.png)
 
 ---
 

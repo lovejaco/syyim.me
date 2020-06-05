@@ -1,5 +1,5 @@
 +++
-title = "[CI/CD] 개념 요약"
+title = "[스터디 정리] CI/CD 개념 요약"
 date = "2020-06-04"
 description = "프론트엔드를 위한 CI/CD 스터디 정리"
 tags = [

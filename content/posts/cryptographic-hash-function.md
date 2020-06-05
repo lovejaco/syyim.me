@@ -87,9 +87,9 @@ Git에서는 변경 내역(커밋)의 해시(SHA1)를 생성하여, 데이터를
 
 ### 파티셔닝 데이터
 
-해시를 사용하여 데이터가 저장된 위치를 식별하면 해시 파티션이 생깁니다. 이 개념은 상당히 복잡하며 **데이터베이스**와 같이 훨씬 더 복잡한 솔루션에서 사용됩니다. 좋은 예는 [OpenStack](https://www.openstack.org/software/)의 [OpenStack Object Storage](http://openstack.org/projects/storage/) Swift입니다.
+해시를 사용하여 데이터가 저장된 위치를 식별하면 해시 파티션이 생깁니다. 이 개념은 상당히 복잡하며 **데이터베이스**와 같이 훨씬 더 복잡한 솔루션에서 사용됩니다. 좋은 예는 [OpenStack Object Storage-Swift](http://openstack.org/projects/storage/) 입니다.
 
-![](./openstack-swift-storage.png)
+![](https://julien.danjou.info/content/images/2018/03/openstack-swift-storage-1.png)
 
 ### 블록 체인
 

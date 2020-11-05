@@ -1,4 +1,4 @@
-baseURL = "https://syyim.netlify.app"
+baseURL = "https://lovejaco.github.io/"
 title = "syyim"
 theme = "anubis"
 paginate = 5

@@ -39,3 +39,8 @@ identifier = "contact"
 name = "Contact"
 url = "/contact/"
 weight = 4
+
+[sitemap]
+changefreq = "weekly"
+filename = "sitemap.xml"
+priority = 0.5
